@@ -17,52 +17,52 @@
 
 <div id="main" style="width:400px; height:200px;">
 <div id="left" style="float:left ; width:50%; height:100%;">
-<img src="img/avatar.jpeg" alt="PNG" style="zoom: 67%;" width=300/></div>
+<img src="http://www.geekxh.com/source/avatar.jpeg" alt="PNG" style="zoom: 67%;" width=300/></div>
 <div id="right" style="float:left ; width:50%; height:100%;">
-<img src="img/suggest.jpeg" alt="PNG" style="zoom: 67%;" width=300/> </div> 
+<img src="http://localhost:4000/img/suggest.jpeg" alt="PNG" style="zoom: 67%;" width=300/> </div> 
 </div>
 
 [开始学习](http://www.geekxh.com) 
 
-* [介绍](README.md)
+* [介绍](README.html)
 
-* [阅读指南](c99/hello.md)
+* [阅读指南](c99/hello.html)
 
 * [1.数组]()
-    * [01.两个数组的交集(350)](c0/001.md)
-    * [02.最长公共前缀(14)](c0/002.md)
-    * [03.买卖股票的最佳时机(122)](c0/003.md)
-    * [04.旋转数组(189)](c0/004.md)
-    * [05.原地删除(27)](c0/005.md)
-    * [06.加一(66)](c0/006.md)
-    * [07.两数之和(1)](c0/007.md)
+    * [01.两个数组的交集(350)](http://www.geekxh.com/c0/001.html)
+    * [02.最长公共前缀(14)](http://www.geekxh.com/c0/002.html)
+    * [03.买卖股票的最佳时机(122)](http://www.geekxh.com/c0/003.html)
+    * [04.旋转数组(189)](http://www.geekxh.com/c0/004.html)
+    * [05.原地删除(27)](http://www.geekxh.com/c0/005.html)
+    * [06.加一(66)](http://www.geekxh.com/c0/006.html)
+    * [07.两数之和(1)](http://www.geekxh.com/c0/007.html)
 
 * [2.链表]()
-    * [01.删除链表倒数第N个节点(19)](c1/101.md)
-    * [02.合并两个有序链表(21)](c1/102.md)
-    * [03.环形链表(21)](c1/103.md)
+    * [01.删除链表倒数第N个节点(19)](http://www.geekxh.com/c1/101.html)
+    * [02.合并两个有序链表(21)](http://www.geekxh.com/c1/102.html)
+    * [03.环形链表(21)](http://www.geekxh.com/c1/103.html)
     
 * [3.动态规划]()    
-    * [01.爬楼梯(70)](c2/201.md)
-    * [02.最大子序和(53)](c2/202.md)
-    * [03.最长上升子序列(300)](c2/203.md)
-    * [04.三角形最小路径和(120)](c2/204.md)
-    * [05.最小路径和(64)](c2/205.md)
-    * [06.打家劫舍(198)](c2/206.md)
+    * [01.爬楼梯(70)](http://www.geekxh.com/c2/201.html)
+    * [02.最大子序和(53)](http://www.geekxh.com/c2/202.html)
+    * [03.最长上升子序列(300)](http://www.geekxh.com/c2/203.html)
+    * [04.三角形最小路径和(120)](http://www.geekxh.com/c2/204.html)
+    * [05.最小路径和(64)](http://www.geekxh.com/c2/205.html)
+    * [06.打家劫舍(198)](http://www.geekxh.com/c2/206.html)
     
 * [4.字符串]()    
-    * [01.反转字符串(344)](c3/301.md)
-    * [02.字符串中的第一个唯一字符(387)](c3/302.md)
+    * [01.反转字符串(344)](http://www.geekxh.com/c3/301.html)
+    * [02.字符串中的第一个唯一字符(387)](http://www.geekxh.com/c3/302.html)
 
 * [其他：排序专栏]()
-   * [排序算法](sort/0.readme.md)
-   * [冒泡排序](sort/1.bubbleSort.md)
-   * [选择排序](sort/2.selectionSort.md)
-   * [插入排序](sort/3.insertionSort.md)
-   * [希尔排序](sort/4.shellSort.md)
-   * [归并排序](sort/5.mergeSort.md)
-   * [快速排序](sort/6.quickSort.md)
-   * [堆排序](sort/7.heapSort.md)
-   * [计数排序](sort/8.countingSort.md)
-   * [桶排序](sort/9.bucketSort.md)
-   * [基数排序](sort/10.radixSort.md)
+   * [排序算法](http://www.geekxh.com/sort/0.readme.html)
+   * [冒泡排序](http://www.geekxh.com/sort/1.bubbleSort.html)
+   * [选择排序](http://www.geekxh.com/sort/2.selectionSort.html)
+   * [插入排序](http://www.geekxh.com/sort/3.insertionSort.html)
+   * [希尔排序](http://www.geekxh.com/sort/4.shellSort.html)
+   * [归并排序](http://www.geekxh.com/sort/5.mergeSort.html)
+   * [快速排序](http://www.geekxh.com/sort/6.quickSort.html)
+   * [堆排序](http://www.geekxh.com/sort/7.heapSort.html)
+   * [计数排序](http://www.geekxh.com/sort/8.countingSort.html)
+   * [桶排序](http://www.geekxh.com/sort/9.bucketSort.html)
+   * [基数排序](http://www.geekxh.com/sort/10.radixSort.html)
