@@ -17,14 +17,12 @@
 
 <div id="main" style="width:400px; height:200px;">
 <div id="left" style="float:left ; width:50%; height:100%;">
-<img src="http://www.geekxh.com/img/avatar.jpeg" alt="PNG" style="zoom: 67%;" width=300/></div>
+<img src="http://www.geekxh.com/img/avatar.jpeg" alt="JPEG" style="zoom: 67%;" width=300/></div>
 <div id="right" style="float:left ; width:50%; height:100%;">
-<img src="http://www.geekxh.com/img/suggest.jpeg" alt="PNG" style="zoom: 67%;" width=300/> </div> 
+<img src="http://www.geekxh.com/img/suggest.jpeg" alt="JPEG" style="zoom: 67%;" width=300/> </div> 
 </div>
 
 [开始学习](http://www.geekxh.com) 
-
-* [介绍](README.html)
 
 * [阅读指南](c99/hello.html)
 
