@@ -18,11 +18,7 @@
 
 <div id="main" style="width:400px; height:600px;">
 <div id="left" style="float:left ; width:50%; height:100%;">
-<img src="source/avatar.jpeg" alt="PNG" style="zoom: 67%;" width=300/></div>
+<img src="img/avatar.jpeg" alt="PNG" style="zoom: 67%;" width=300/></div>
 <div id="right" style="float:left ; width:50%; height:100%;">
-<img src="source/img1.jpeg" alt="PNG" style="zoom: 67%;" width=300/> </div>
+<img src="img/img1.jpeg" alt="PNG" style="zoom: 67%;" width=300/> </div>
 </div>
-
-
-
-
