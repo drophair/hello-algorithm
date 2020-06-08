@@ -22,9 +22,9 @@
 <img src="http://www.geekxh.com/img/suggest.jpeg" alt="JPEG" style="zoom: 67%;" width=300/> </div> 
 </div>
 
-[开始学习](http://www.geekxh.com) 
+* [开始学习](http://www.geekxh.com) 
 
-* [阅读指南](c99/hello.html)
+* [阅读指南](http://www.geekxh.com/c99/hello.html)
 
 * [1.数组]()
     * [01.两个数组的交集(350)](http://www.geekxh.com/c0/001.html)
