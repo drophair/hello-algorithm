@@ -13,12 +13,12 @@
 > ###### 为了大家更好的交流，我创建了<font color="red"><b>万人刷题群</b>
 >
 > ###### 下方扫码回复<font color="red" size="5"><b>【刷题】</b></font> 即可（群里无广告，不套路，不推送）
-
+>
 <br/>
 
 <div id="main" style="width:400px; height:600px;">
 <div id="left" style="float:left ; width:50%; height:100%;">
 <img src="img/avatar.jpeg" alt="PNG" style="zoom: 67%;" width=300/></div>
 <div id="right" style="float:left ; width:50%; height:100%;">
-<img src="img/img1.jpeg" alt="PNG" style="zoom: 67%;" width=300/> </div>
+<img src="img/img1.jpeg" alt="PNG" style="zoom: 67%;" width=300/> </div> 
 </div>
